@@ -10,7 +10,6 @@ import iconjs from '../assets/Images/icons-js-git.svg'
 import iconbt from '../assets/Images/icons-tail-bootstrap.svg'
 import reactNext from '../assets/Images/icons-react-next.svg'
 import nodeMongo from '../assets/Images/icons-node-mongo.svg'
-import AnimatedCircleLogo from '../component/Pic';
 import { GrInstagram } from "react-icons/gr";
 import { MdOutlineEmail } from "react-icons/md";
 
@@ -19,7 +18,7 @@ import { MdOutlineEmail } from "react-icons/md";
 const Home = () => {
   return (
     <div>
-        <Header/>
+     <Header/>
         <section className='home-section' id='home'>
             <div className="home">
                 <div className='content'>
@@ -63,8 +62,9 @@ const Home = () => {
             </div>         
         </section>
         <section className='about-section' id='about'> 
-            <h1>About</h1>   
-            <AnimatedCircleLogo wizard={wizard}/>     
+            <h1>Under construction 🏗️🚧👷🏾‍♂️</h1>  
+             
+                
         </section>
         <section className="bottom">
             <div className='project' id='project'>
@@ -75,7 +75,7 @@ const Home = () => {
             <div className='contacts' id='contact'>
                 <div className="contact">
                     <div className='contact-content'>
-                        <h3>Contact</h3>
+                        <h3>CONTACT</h3>
                         <h2>Don't be shy! Hit me up! 👇🏾</h2>
                         <div className='content-title'>
                            <div className="insta">
