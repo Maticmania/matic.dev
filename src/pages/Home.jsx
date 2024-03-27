@@ -5,7 +5,7 @@ import { FiGithub } from "react-icons/fi";
 import { FaLinkedin } from "react-icons/fa";
 import wave from '../assets/Images/waving.png'
 import wizard from '../assets/Images/Dark-Wizard-1-icon.png'
-import Matic from '../assets/Images/Matic-p.jpeg'
+import Matic from '../assets/Images/Matic-pa.jpg'
 
 import iconhtml from '../assets/Images/icons-html-css.svg'
 import iconjs from '../assets/Images/icons-js-git.svg'
