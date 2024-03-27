@@ -372,7 +372,6 @@ a{
         width: 100%; 
         height: 200px;
         gap: 5px;
-        border: 1px solid red;
     }
     .stack-grid .stack {
       display: flex;
