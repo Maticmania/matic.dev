@@ -5,6 +5,8 @@ import { FiGithub } from "react-icons/fi";
 import { FaLinkedin } from "react-icons/fa";
 import wave from '../assets/Images/waving.png'
 import wizard from '../assets/Images/Dark-Wizard-1-icon.png'
+import Matic from '../assets/Images/Matic-p.jpeg'
+
 import iconhtml from '../assets/Images/icons-html-css.svg'
 import iconjs from '../assets/Images/icons-js-git.svg'
 import iconbt from '../assets/Images/icons-tail-bootstrap.svg'
@@ -35,7 +37,7 @@ const Home = () => {
                             </div>
                         </div>
                         <div className='hero-img'>
-                            <img src={wizard} title='wizard' />
+                            <img src={Matic} title='MATIC' />
                         </div>
                     </div>
                     <div className="bottom-content">
